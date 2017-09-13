@@ -1,5 +1,5 @@
 # AlienVault
-This is a test for AlienVault
+This is a test for AlienVault, to create a Django application.
 
 
 ￼AlienVault Python/Django Coding Test
